@@ -6,8 +6,8 @@ load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = os.getenv('SECRET_KEY')
-DEBUG = os.getenv('DEBUG', 'False').lower() == 'true'
+SECRET_KEY = getenv('SECRET_KEY')
+DEBUG = getenv('DEBUG', 'False').lower() == 'true'
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '*']
 # Application definition
 INSTALLED_APPS = [
@@ -56,15 +56,13 @@ TEMPLATES[0]['DIRS'] = [BASE_DIR / "templates"]
 WSGI_APPLICATION = 'vendor_project.wsgi.application'
 LOGIN_REDIRECT_URL = '/accounts/login-success/'
 # Database - PostgreSQL
+import dj_database_url
+from os import getenv, environ
+
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'vendor_demo',
-        'USER': 'app_user',
-        'PASSWORD': 'app_pass',
-        'HOST': 'localhost',
-        'PORT': '5432',
-    }
+    'default': dj_database_url.config(
+        default=environ.get('DATABASE_URL')
+    )
 }
 
 # Redis Session Backend
