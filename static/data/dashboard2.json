@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "newOrders": 120,
+    "activeProducts": 24,
+    "revenue": 24800
+  },
+ 
+  "revenueChart": {
+    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+    "data": [15000, 19000, 22000, 18000, 24000, 28000]
+  },
+  "categoryChart": {
+    "labels": ["Veg", "Dairy", "Non-veg", "Grain", "Spice","Oils","Bakery"],
+    "data": [15, 10, 25, 15, 10, 15, 10]
+  }
+}

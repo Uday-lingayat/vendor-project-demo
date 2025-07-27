@@ -1,0 +1,232 @@
+[
+  {
+    "supplierId": 1,
+    "supplierName": "Delhi Grains Supply",
+    "supplierImage": "https://randomuser.me/api/portraits/men/41.jpg",
+    "location": "Delhi",
+    "contactEmail": "contact@delhigrams.com",
+    "phoneNumber": "+91 9876543210",
+    "rating": 4.5,
+    "products": [
+      {
+        "id": 1,
+        "name": "Premium Wheat Flour (10kg)",
+        "price": 420,
+        "rating": 4.5,
+        "ratingCount": 128,
+        "category": "Grain",
+        "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+        "badge": "BESTSELLER",
+        "description": "High-quality, stone-ground wheat flour perfect for chapatis, parathas, and baking needs. Packed in a hygienic 10kg bag.",
+        "qty": 110
+      }
+    ]
+  },
+  {
+    "supplierId": 2,
+    "supplierName": "Maharashtra Fruits",
+    "supplierImage": "https://randomuser.me/api/portraits/women/32.jpg",
+    "location": "Mumbai",
+    "contactEmail": "info@mahafruits.com",
+    "phoneNumber": "+91 8765432109",
+    "rating": 4.7,
+    "products": [
+      {
+        "id": 2,
+        "name": "Fresh Alphonso Mangoes (1kg)",
+        "price": 250,
+        "rating": 4.8,
+        "ratingCount": 95,
+        "category": "Veg",
+        "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+        "badge": "SEASONAL",
+        "description": "Juicy, sweet Alphonso mangoes directly sourced from Ratnagiri farms. Each box contains 4-5 premium quality mangoes.",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "supplierId": 3,
+    "supplierName": "Punjab Dairy",
+    "supplierImage": "https://randomuser.me/api/portraits/men/65.jpg",
+    "location": "Ludhiana",
+    "contactEmail": "sales@punjabdairy.com",
+    "phoneNumber": "+91 7654321098",
+    "rating": 4.6,
+    "products": [
+      {
+        "id": 3,
+        "name": "Organic Ghee (1L)",
+        "price": 580,
+        "rating": 4.7,
+        "ratingCount": 210,
+        "category": "Dairy",
+        "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+        "badge": "PREMIUM",
+        "description": "Pure desi cow ghee made using traditional bilona method. Rich in aroma and perfect for Indian cooking.",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "supplierId": 4,
+    "supplierName": "Hyderabad Poultry",
+    "supplierImage": "https://randomuser.me/api/portraits/men/28.jpg",
+    "location": "Hyderabad",
+    "contactEmail": "orders@hydpoultry.com",
+    "phoneNumber": "+91 6543210987",
+    "rating": 4.4,
+    "products": [
+      {
+        "id": 4,
+        "name": "Chicken Breast (500g)",
+        "price": 180,
+        "rating": 4.3,
+        "ratingCount": 76,
+        "category": "Nonveg",
+        "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+        "badge": "FRESH",
+        "description": "Fresh, antibiotic-free chicken breast pieces. Vacuum packed for freshness and hygiene.",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "supplierId": 5,
+    "supplierName": "Mediterranean Imports",
+    "supplierImage": "https://randomuser.me/api/portraits/women/45.jpg",
+    "location": "Chennai",
+    "contactEmail": "imports@mediterranean.com",
+    "phoneNumber": "+91 9432109876",
+    "rating": 4.8,
+    "products": [
+      {
+        "id": 5,
+        "name": "Extra Virgin Olive Oil (1L)",
+        "price": 890,
+        "rating": 4.6,
+        "ratingCount": 142,
+        "category": "Oils",
+        "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+        "badge": "IMPORTED",
+        "description": "Cold-pressed extra virgin olive oil imported directly from Italy. Perfect for salads and low-heat cooking.",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "supplierId": 6,
+    "supplierName": "Kerala Spices",
+    "supplierImage": "https://randomuser.me/api/portraits/women/53.jpg",
+    "location": "Kochi",
+    "contactEmail": "spices@keralaspices.com",
+    "phoneNumber": "+91 8321098765",
+    "rating": 4.5,
+    "products": [
+      {
+        "id": 6,
+        "name": "Turmeric Powder (200g)",
+        "price": 85,
+        "rating": 4.4,
+        "ratingCount": 187,
+        "category": "Spice",
+        "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+        "badge": "POPULAR",
+        "description": "Pure, organic turmeric powder with high curcumin content. Gives rich color and flavor to dishes.",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "supplierId": 7,
+    "supplierName": "Bangalore Bakers",
+    "supplierImage": "https://randomuser.me/api/portraits/men/37.jpg",
+    "location": "Bangalore",
+    "contactEmail": "bake@bangalorebakers.com",
+    "phoneNumber": "+91 7210987654",
+    "rating": 4.3,
+    "products": [
+      {
+        "id": 7,
+        "name": "Whole Grain Bread (500g)",
+        "price": 65,
+        "rating": 4.2,
+        "ratingCount": 92,
+        "category": "Bakery",
+        "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+        "badge": "NEW",
+        "description": "Soft, nutritious whole grain bread with seeds. No preservatives or artificial flavors.",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "supplierId": 8,
+    "supplierName": "Gujarat Dairy",
+    "supplierImage": "https://randomuser.me/api/portraits/men/50.jpg",
+    "location": "Ahmedabad",
+    "contactEmail": "info@gujaratdairy.com",
+    "phoneNumber": "+91 6109876543",
+    "rating": 4.6,
+    "products": [
+      {
+        "id": 8,
+        "name": "Fresh Paneer (250g)",
+        "price": 120,
+        "rating": 4.5,
+        "ratingCount": 134,
+        "category": "Dairy",
+        "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+        "badge": "FRESH",
+        "description": "Fresh, soft paneer made from pure cow milk. Perfect for curries, snacks and desserts.",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "supplierId": 9,
+    "supplierName": "Haryana Rice Mills",
+    "supplierImage": "https://randomuser.me/api/portraits/women/48.jpg",
+    "location": "Chandigarh",
+    "contactEmail": "rice@haryanarice.com",
+    "phoneNumber": "+91 5098765432",
+    "rating": 4.7,
+    "products": [
+      {
+        "id": 9,
+        "name": "Basmati Rice (5kg)",
+        "price": 550,
+        "rating": 4.7,
+        "ratingCount": 156,
+        "category": "Grain",
+        "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+        "badge": "PREMIUM",
+        "description": "Aged basmati rice with extra-long grains and aromatic flavor. Ideal for biryanis and pulao.",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "supplierId": 10,
+    "supplierName": "Rajasthan Masala Co.",
+    "supplierImage": "https://randomuser.me/api/portraits/men/60.jpg",
+    "location": "Jaipur",
+    "contactEmail": "masala@rajasthanmasala.com",
+    "phoneNumber": "+91 4987654321",
+    "rating": 4.5,
+    "products": [
+      {
+        "id": 10,
+        "name": "Mixed Spices Pack (100g)",
+        "price": 150,
+        "rating": 4.6,
+        "ratingCount": 89,
+        "category": "Spice",
+        "image": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+        "badge": "COMBO",
+        "description": "Assorted pack of 5 essential spices: cumin, coriander, red chili, garam masala, and turmeric.",
+        "qty": 10
+      }
+    ]
+  }
+]

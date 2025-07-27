@@ -1,0 +1,172 @@
+{
+  "username": "Rajesh Kumar",
+  "currentOrders": [
+    {
+      "orderId": "#SS-1301",
+      "customer": "Sharma Snacks",
+      "itemName": "Potato Chips",
+      "progress": 2
+    },
+    {
+      "orderId": "#SS-1300",
+      "customer": "Biryani Express",
+      "itemName": "Basmati Rice",
+      "progress": 1
+    },
+    {
+      "orderId": "#SS-1299",
+      "customer": "Sandwich Hub",
+      "itemName": "Whole Wheat Bread",
+      "progress": 3
+    }
+  ],
+  "recentOrders": [
+    {
+      "orderId": "#SS-1245",
+      "customer": "Vijay's Chaat Corner",
+      "itemName": "Tamarind Sauce",
+      "date": "12 Jun 2023",
+      "amount": "₹2,450"
+    },
+    {
+      "orderId": "#SS-1244",
+      "customer": "Mumbai Street Food",
+      "itemName": "Spices Mix",
+      "date": "11 Jun 2023",
+      "amount": "₹5,780"
+    },
+    {
+      "orderId": "#SS-1243",
+      "customer": "Delhi Dhaba",
+      "itemName": "Paneer Cubes",
+      "date": "11 Jun 2023",
+      "amount": "₹3,210"
+    },
+    {
+      "orderId": "#SS-1242",
+      "customer": "Chennai Tiffins",
+      "itemName": "Rice Flour",
+      "date": "10 Jun 2023",
+      "amount": "₹4,560"
+    },
+    {
+      "orderId": "#SS-1241",
+      "customer": "Kolkata Sweets",
+      "itemName": "Jaggery",
+      "date": "10 Jun 2023",
+      "amount": "₹1,890"
+    },
+    {
+      "orderId": "#SS-1244",
+      "customer": "Mumbai Street Food",
+      "itemName": "Spices Mix",
+      "date": "11 Jun 2023",
+      "amount": "₹5,780"
+    },
+    {
+      "orderId": "#SS-1243",
+      "customer": "Delhi Dhaba",
+      "itemName": "Paneer Cubes",
+      "date": "11 Jun 2023",
+      "amount": "₹3,210"
+    },
+    {
+      "orderId": "#SS-1242",
+      "customer": "Chennai Tiffins",
+      "itemName": "Rice Flour",
+      "date": "10 Jun 2023",
+      "amount": "₹4,560"
+    },
+    {
+      "orderId": "#SS-1241",
+      "customer": "Kolkata Sweets",
+      "itemName": "Jaggery",
+      "date": "10 Jun 2023",
+      "amount": "₹1,890"
+    },
+    {
+      "orderId": "#SS-1244",
+      "customer": "Mumbai Street Food",
+      "itemName": "Spices Mix",
+      "date": "11 Jun 2023",
+      "amount": "₹5,780"
+    },
+    {
+      "orderId": "#SS-1243",
+      "customer": "Delhi Dhaba",
+      "itemName": "Paneer Cubes",
+      "date": "11 Jun 2023",
+      "amount": "₹3,210"
+    },
+    {
+      "orderId": "#SS-1242",
+      "customer": "Chennai Tiffins",
+      "itemName": "Rice Flour",
+      "date": "10 Jun 2023",
+      "amount": "₹4,560"
+    },
+    {
+      "orderId": "#SS-1241",
+      "customer": "Kolkata Sweets",
+      "itemName": "Jaggery",
+      "date": "10 Jun 2023",
+      "amount": "₹1,890"
+    },
+    {
+      "orderId": "#SS-1244",
+      "customer": "Mumbai Street Food",
+      "itemName": "Spices Mix",
+      "date": "11 Jun 2023",
+      "amount": "₹5,780"
+    },
+    {
+      "orderId": "#SS-1243",
+      "customer": "Delhi Dhaba",
+      "itemName": "Paneer Cubes",
+      "date": "11 Jun 2023",
+      "amount": "₹3,210"
+    },
+    {
+      "orderId": "#SS-1242",
+      "customer": "Chennai Tiffins",
+      "itemName": "Rice Flour",
+      "date": "10 Jun 2023",
+      "amount": "₹4,560"
+    },
+    {
+      "orderId": "#SS-1241",
+      "customer": "Kolkata Sweets",
+      "itemName": "Jaggery",
+      "date": "10 Jun 2023",
+      "amount": "₹1,890"
+    },
+    {
+      "orderId": "#SS-1244",
+      "customer": "Mumbai Street Food",
+      "itemName": "Spices Mix",
+      "date": "11 Jun 2023",
+      "amount": "₹5,780"
+    },
+    {
+      "orderId": "#SS-1243",
+      "customer": "Delhi Dhaba",
+      "itemName": "Paneer Cubes",
+      "date": "11 Jun 2023",
+      "amount": "₹3,210"
+    },
+    {
+      "orderId": "#SS-1242",
+      "customer": "Chennai Tiffins",
+      "itemName": "Rice Flour",
+      "date": "10 Jun 2023",
+      "amount": "₹4,560"
+    },
+    {
+      "orderId": "#SS-1241",
+      "customer": "Kolkata Sweets",
+      "itemName": "Jaggery",
+      "date": "10 Jun 2023",
+      "amount": "₹1,890"
+    }
+  ]
+}
