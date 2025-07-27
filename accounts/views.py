@@ -21,7 +21,7 @@ from .models import (
 from .serializers import (
     ProductSerializer, OrderSerializer, UserProfileSerializer, VendorProfileSerializer
 )
-from django.views.decorators.csrf import ensure_csrf_cookie, csrf_exempt
+from django.views.decorators.csrf import ensure_csrf_cookie
 from django.middleware.csrf import get_token
 
 @ensure_csrf_cookie
@@ -403,7 +403,12 @@ def profile_view(request):
     serializer = UserProfileSerializer(request.user)
     return Response(serializer.data)
 
-@csrf_exempt
+@api_view(['POST'])
+@permission_classes([IsAuthenticated])
+@api_view(['POST'])
+@permission_classes([IsAuthenticated])
+@api_view(['POST'])
+@permission_classes([IsAuthenticated])
 @api_view(['POST'])
 @permission_classes([IsAuthenticated])
 def supplier_inventory_add_api(request):
